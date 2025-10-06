@@ -1,0 +1,20 @@
+{
+  "applinks": {
+    "details": [
+      {
+        "appIDs": [
+          "QR34MJ864N.net.uupis.keychain-manual"
+        ],
+        "components": [
+          {
+            "/": "/dashboard.html"
+          },
+          {
+            "/": "/not-dashboard.html",
+            "exclude": true
+          }
+        ]
+      }
+    ]
+  }
+}
